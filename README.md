@@ -1,6 +1,6 @@
  Project Structure
 
-
+```
 interview-prep/
 ├── src/
 │   ├── App.jsx                  # Root component
@@ -28,15 +28,15 @@ interview-prep/
 ├── package.json
 ├── .env.example                 # Copy to .env and fill in your key
 └── .gitignore
-
-# install
+```
+### install
 
 ```bash
 cd interview-prep
 npm install
 ```
 
-# 2. Set up your API key
+### 2. Set up your API key
 
 ```bash
 cp .env.example .env
